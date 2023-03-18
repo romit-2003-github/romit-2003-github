@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @romit-2003-github
-- 👀 I’m interested in Web Development...
-- 🌱 I’m currently mastering HTML, CSS, BootStrap, JavaScript and C++...
+- 👋 Greetings everyone, myself Romit Soni, 2nd year student at Thapar Institute of Engineering and Technology, Patiala.
+- 👀 I'm an incredibly committed and diligent Front-End web developer with expertise in HTML, CSS, JavaScript, and ReactJS. 
 - 📫 You can connect with me on Linkedin- https://www.linkedin.com/in/romit-soni-1726ba1b9  https://www.instagram.com/romit_soni0206/
 
 <!---
